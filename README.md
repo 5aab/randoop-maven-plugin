@@ -13,6 +13,8 @@ Maven.
 A brief description of needed steps.
 
 ### 1. Step
+Run maven initialize goal first, followed by following goals
+
 Install into local Maven repository:
 ```
 mvn clean install
@@ -33,7 +35,7 @@ plugin:
     </plugins>
         ...
         <plugin>
-            <groupId>randoop</groupId>
+            <groupId>com.5aab.automation</groupId>
             <artifactId>randoop-maven-plugin</artifactId>
             <version>3.1.5</version>
             <configuration>
