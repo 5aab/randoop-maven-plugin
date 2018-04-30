@@ -19,7 +19,7 @@ Install into local Maven repository:
 ```
 mvn clean install
 ```
-To override Randoop version 3.1.5 if needed run instead:
+To override Randoop version 4.0.3 if needed run instead:
 ```
 mvn clean install -Drevision=new.version
 ```
