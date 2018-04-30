@@ -37,7 +37,7 @@ plugin:
         <plugin>
             <groupId>com.5aab.automation</groupId>
             <artifactId>randoop-maven-plugin</artifactId>
-            <version>3.1.5</version>
+            <version>4.0.3</version>
             <configuration>
                 <packageName>my.base.package</packageName>
             </configuration>
